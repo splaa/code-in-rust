@@ -1,0 +1,1 @@
+- [5 Better ways to code in Rust](https://www.youtube.com/watch?v=BU1LYFkpJuk&list=RDCMUCSp-OaMpsO8K0KkOqyBl7_w&index=2)
