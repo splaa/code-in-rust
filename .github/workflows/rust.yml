@@ -27,7 +27,7 @@ jobs:
         run: cargo test --verbose
 
       - name: Clippy
-        run: carego clippy --verbose -- -D warnings
+        run: cargo clippy --verbose -- -D warnings
 
       - name: Audit
         run: cargo audit
